@@ -1,5 +1,8 @@
-# LLM_VectorDB
+# LLM_VectorDB_Search
 Your own search engine using power of LLM QnA model with Vector DB
+
+## Flow Diagram
+
 
 ## Searches for answer from the vector database
 Screenshot 2023-06-16 at 06-03-30 Dash.png![image](https://github.com/amankiitg/LLM_VectorDB/assets/5688940/8e7af68b-a188-488e-a8c8-07ca1da77b61)
