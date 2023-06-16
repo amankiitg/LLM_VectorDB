@@ -2,6 +2,7 @@
 Your own search engine using power of LLM QnA model with Vector DB
 
 ## Flow Diagram
+![image](https://github.com/amankiitg/LLM_VectorDB/assets/5688940/e65313a2-ea63-4640-b9f1-a8d991a3c6c5)
 
 
 ## Searches for answer from the vector database
